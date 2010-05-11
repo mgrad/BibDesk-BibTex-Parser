@@ -9,6 +9,8 @@ It changes the Bdsk-File entry which points to the pdf file.
 
 One can also use the AppleScript to do the same job:
   http://bibdesk.sourceforge.net/manual/BibDesk%20Help_51.html
+  http://sourceforge.net/apps/mediawiki/bibdesk/index.php?title=BibDesk_Applescripts
+  http://bjoernstechblog.rueffer.info/2009/11/generating-local-url-fields-in-bibdesk.html
 
 Or python:
   http://users.physik.fu-berlin.de/~mgoerz/blog/2009/08/adding-local-file-fields-to-bibdesk-created-bibtex-file/
