@@ -1,0 +1,7 @@
+This tool converts the *.bib file generated from BibDesk.
+It changes the Bdsk-File entry which points to the pdf file.
+
+  Usage:
+  1. Export from the BibDesk the BibTex & EndNote databases.
+  - this will genearte the *.bib and *.xml files accordinally.
+  2. ./parseBib.pl *.bib *.xml
