@@ -74,7 +74,7 @@ while (my $line = <SRC_BIB> ) {
       print $line;
   } else {
     if ($line =~ /^\s*$/ or $match == 0 or eof(SRC_BIB) ) {
-      print "\tlocal-url = {$db{$title}}\n}";
+      print "\tlocal-url = {$db{$title}}\n}\n\n";
       $found = 0;
     }
   }
